@@ -202,7 +202,7 @@ export default async function DentalTourismPage({ params }: { params: Promise<{ 
               {tc('getStarted')}
             </Link>
             <a
-              href="https://wa.me/905428955470"
+              href="https://wa.me/905013448844"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl border-2 border-[#25D366] bg-[#25D366]/10 px-8 py-4 text-base font-bold text-white backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#25D366]/25"

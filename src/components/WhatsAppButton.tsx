@@ -4,7 +4,7 @@ import { useTranslations } from 'next-intl';
 
 export default function WhatsAppButton() {
   const t = useTranslations('common');
-  const WHATSAPP_NUMBER = '905428955470';
+  const WHATSAPP_NUMBER = '905013448844';
 
   return (
     <a

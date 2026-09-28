@@ -59,7 +59,7 @@ npm install
 Copy `.env.example` to `.env.local` and fill in:
 
 ```bash
-NEXT_PUBLIC_WHATSAPP_NUMBER=905428955470
+NEXT_PUBLIC_WHATSAPP_NUMBER=905013448844
 CONTACT_FORM_TO_EMAIL=info@example.com
 EMAIL_PROVIDER_API_KEY=your-api-key
 NEXT_PUBLIC_GA4_ID=G-XXXXXXXXXX

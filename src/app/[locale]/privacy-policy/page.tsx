@@ -106,7 +106,7 @@ export default async function PrivacyPolicyPage({ params }: { params: Promise<{ 
             For questions about this Privacy Policy or to exercise your data protection rights, please contact:<br />
             <strong>Smile&Holiday</strong><br />
             Email: info@smileandholiday.com<br />
-            Phone: +90 542 895 5470<br />
+            Phone: +90 501 344 88 44<br />
             Address: Tuzla Mah. Mustafa Kemal Bulvarı No:34, Fethiye, Muğla, Turkey
           </p>
         </div>

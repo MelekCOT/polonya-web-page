@@ -107,7 +107,7 @@ export default async function TermsConditionsPage({ params }: { params: Promise<
             For questions regarding these Terms, please contact:<br />
             <strong>Smile&Holiday</strong><br />
             Email: info@smileandholiday.com<br />
-            Phone: +90 542 895 5470<br />
+            Phone: +90 501 344 88 44<br />
             Address: Tuzla Mah. Mustafa Kemal Bulvarı No:34, Fethiye, Muğla, Turkey
           </p>
         </div>

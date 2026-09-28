@@ -97,7 +97,7 @@ export default async function CookiePolicyPage({ params }: { params: Promise<{ l
             If you have any questions about our use of cookies, please contact us at:<br />
             <strong>Smile&Holiday</strong><br />
             Email: info@smileandholiday.com<br />
-            Phone: +90 542 895 5470
+            Phone: +90 501 344 88 44
           </p>
         </div>
       </section>

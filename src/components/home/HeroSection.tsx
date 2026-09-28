@@ -3,7 +3,7 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 
-const WHATSAPP_URL = 'https://wa.me/905428955470';
+const WHATSAPP_URL = 'https://wa.me/905013448844';
 
 export default function HeroSection() {
   const t = useTranslations('hero');
